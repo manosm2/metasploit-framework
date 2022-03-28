@@ -1,5 +1,5 @@
 ---
-name: Bug Report 🐞
+name: Bug Report 🐞 2
 about: Something isn't working as expected? Here is the right place to report.
 labels: "bug"
 ---
